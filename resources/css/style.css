@@ -1,3 +1,37 @@
 h1 {
-  
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.branding {
+  background-image: url("../images/building_image.png");
+  background-color: white;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#footer {
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+  font-size: 11px;
+}
+
+p {
+  font-size: 14px;
+}
+
+#contents {
+  font-size: 18px;
 }
