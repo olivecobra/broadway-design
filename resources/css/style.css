@@ -32,6 +32,7 @@ p {
   font-size: 14px;
 }
 
-#contents {
+#top a {
   font-size: 18px;
+  display: block;
 }
